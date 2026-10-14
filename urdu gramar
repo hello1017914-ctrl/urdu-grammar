@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>اردو شاعری سبق</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#fbf6ea;--card:#fffdf7;--ink:#2a2118;--mut:#6b5d4a;--ac:#0f6b5c;--ac2:#b8862b;--bd:#e6d9bc;--hl:#e8f3ef;--ok:#1b7a3d;--ex:#fdf1d6;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#14110d;--card:#1d1812;--ink:#f1e8d6;--mut:#b3a68e;--ac:#4fc3ab;--ac2:#e0b45a;--bd:#3a3226;--hl:#173029;--ok:#6fd58f;--ex:#2a2314}}
+:root[data-theme="dark"]{--bg:#14110d;--card:#1d1812;--ink:#f1e8d6;--mut:#b3a68e;--ac:#4fc3ab;--ac2:#e0b45a;--bd:#3a3226;--hl:#173029;--ok:#6fd58f;--ex:#2a2314}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'Noto Nastaliq Urdu','Jameel Noori Nastaleeq',serif;line-height:2.5;font-size:17px}
+.wrap{max-width:860px;margin:auto;padding:16px}
+header{text-align:center;padding:28px 12px;border-radius:20px;background:linear-gradient(135deg,var(--ac),#07382f);color:#fff;margin-bottom:18px}
+header h1{margin:0;font-size:30px;line-height:2.2}
+header p{margin:0;opacity:.9;font-size:15px}
+nav{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0;justify-content:center}
+nav a{background:var(--card);border:1px solid var(--bd);color:var(--ac);padding:0 14px;border-radius:20px;text-decoration:none;font-size:14px;line-height:2.2}
+section{background:var(--card);border:1px solid var(--bd);border-radius:18px;padding:8px 20px 16px;margin:18px 0}
+h2{color:var(--ac);font-size:23px;border-bottom:3px double var(--ac2);padding-bottom:4px;line-height:2.2}
+h3{color:var(--ac2);font-size:19px;margin:18px 0 0;line-height:2.2}
+.en{font-family:system-ui,sans-serif;direction:ltr;unicode-bidi:isolate;font-size:.72em;color:var(--mut);background:var(--hl);padding:1px 7px;border-radius:8px;white-space:nowrap}
+.ex{background:var(--ex);border-right:5px solid var(--ac2);border-radius:10px;padding:6px 14px;margin:8px 0}
+.sh{text-align:center;font-size:20px;line-height:3;background:var(--hl);border-radius:12px;padding:6px;margin:8px 0}
+.tip{background:var(--hl);border-radius:10px;padding:4px 14px;margin:8px 0;border-right:5px solid var(--ac)}
+table{width:100%;border-collapse:collapse;font-size:15px;line-height:2.2}
+th,td{border:1px solid var(--bd);padding:2px 10px;text-align:right}
+th{background:var(--hl);color:var(--ac)}
+.tw{overflow-x:auto}
+.q{border:1px solid var(--bd);border-radius:12px;padding:6px 16px;margin:12px 0;background:var(--bg)}
+button{font-family:inherit;background:var(--ac);color:#fff;border:0;border-radius:10px;padding:2px 16px;font-size:15px;cursor:pointer;line-height:2.2}
+.ans{display:none;margin-top:6px;color:var(--ok);font-weight:700}
+.ans.on{display:block}
+footer{text-align:center;color:var(--mut);font-size:14px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header><h1>اردو شاعری: اصنافِ نظم اور علمِ بدیع</h1><p>بالکل آسان زبان میں، مثالوں کے ساتھ (Simple Urdu Poetry Lesson)</p></header>
+
+<section>
+<h2>پہلے یہ بنیادی لفظ سمجھ لیں</h2>
+<p><b>نظم</b> <span class="en">Poetry / Verse</span> یعنی وزن اور ترتیب میں لکھا ہوا کلام۔ اس کے برعکس <b>نثر</b> <span class="en">Prose</span> عام بول چال کی تحریر ہے۔</p>
+<p><b>صنف</b> <span class="en">Genre / Type</span> کا مطلب ہے قسم۔ جیسے پھلوں میں آم، سیب، کیلا الگ قسمیں ہیں، ویسے شاعری کی بھی قسمیں ہیں۔</p>
+<div class="tip">شاعری کو دو طرح سے تقسیم کرتے ہیں:<br>۱۔ <b>موضوع کے لحاظ سے</b> <span class="en">By Topic</span>: شاعر نے کس کے بارے میں لکھا؟<br>۲۔ <b>ہیئت کے لحاظ سے</b> <span class="en">By Form/Shape</span>: شاعری کی شکل اور ترتیب کیسی ہے؟</div>
+<nav><a href="#a">موضوع</a><a href="#b">ہیئت</a><a href="#c">اجزا</a><a href="#d">علمِ بدیع</a><a href="#t">امتحان</a></nav>
+</section>
+
+<section id="a">
+<h2>۱۔ نظم بلحاظِ موضوع <span class="en">By Topic</span></h2>
+<p>یہاں سوال صرف ایک ہے: <b>نظم کس بارے میں ہے؟</b></p>
+
+<h3>حمد <span class="en">Hamd</span></h3>
+<p>اللہ تعالیٰ کی تعریف میں لکھی گئی نظم۔ <b>(اسم)</b> <span class="en">Noun</span> "حمد" کا مطلب ہی تعریف ہے۔</p>
+<div class="ex">مثال: "اے اللہ! تو ہی سب کا خالق ہے، تو ہی رزق دینے والا ہے۔"</div>
+
+<h3>نعت <span class="en">Naat</span></h3>
+<p>نبی کریم ﷺ کی تعریف اور محبت میں لکھی گئی نظم۔ یاد رکھیں: حمد اللہ کی، نعت رسول ﷺ کی۔</p>
+
+<h3>قومی و ملی نظم <span class="en">National / Patriotic Poem</span></h3>
+<p>وطن، قوم اور ملت <span class="en">Community/Nation</span> سے محبت اور ان کو جگانے والی نظم۔ آزادی، اتحاد اور قربانی اس کے موضوع ہوتے ہیں۔</p>
+<div class="ex">مثال: علامہ اقبال کی "ہندی ہیں ہم وطن ہے ہندوستاں ہمارا" (اس میں وطن کی محبت ہے)۔</div>
+
+<h3>قصیدہ <span class="en">Qasida / Ode of Praise</span></h3>
+<p>کسی بادشاہ، امیر یا بڑے آدمی کی <b>بہت بڑھا چڑھا کر</b> تعریف۔ <b>(ممدوح)</b> <span class="en">The person praised</span> وہ ہے جس کی تعریف کی جائے۔ قصیدے کے عموماً چار حصے ہوتے ہیں: تشبیب (تمہید، یعنی شروعات)، گریز (تعریف کی طرف مڑنا)، مدح (اصل تعریف)، دعا۔ مشہور قصیدہ گو: سودا، ذوق، غالب۔</p>
+
+<h3>ہجو <span class="en">Hajv / Satire</span></h3>
+<p>قصیدے کی الٹ۔ اس میں کسی کی <b>برائی، مذاق اور عیب</b> بیان ہوتے ہیں۔ <b>(ہجو گو)</b> <span class="en">Satirist</span>: مثلاً سودا اس فن میں مشہور ہیں۔</p>
+
+<h3>دعا <span class="en">Dua / Prayer</span></h3>
+<p>اللہ سے کچھ مانگنا۔ مثال: "لب پہ آتی ہے دعا بن کے تمنا میری" (اقبال)۔ اس میں بچہ اللہ سے اچھا انسان بننے کی دعا کرتا ہے۔</p>
+
+<h3>مناجات <span class="en">Munajat / Humble Plea</span></h3>
+<p>اللہ سے <b>عاجزی</b> <span class="en">Humility</span> اور آہ و زاری کے ساتھ سرگوشی۔ دعا اور مناجات میں فرق: دعا میں مانگنا زیادہ ہے، مناجات میں انکساری اور رازونیاز۔</p>
+
+<h3>منقبت <span class="en">Manqabat</span></h3>
+<p>اہلِ بیت، صحابہ کرام اور اولیاء کی خوبیوں کی تعریف۔ <b>(منقبت)</b> کا مطلب ہے بزرگوں کے فضائل۔</p>
+
+<h3>مرثیہ <span class="en">Marsiya / Elegy</span></h3>
+<p>کسی کی وفات یا شہادت پر غم کی نظم۔ اردو میں خاص طور پر <b>واقعۂ کربلا</b> اور امام حسینؓ کی شہادت کا بیان۔ مشہور مرثیہ گو: میر انیس اور مرزا دبیر۔ <b>(مرثیہ گو)</b> <span class="en">Elegy poet</span> ۔</p>
+
+<h3>مثنوی <span class="en">Masnavi / Narrative Poem</span></h3>
+<p>لمبی کہانی نظم میں۔ اس کی پہچان: ہر شعر کے <b>دونوں مصرعے ہم قافیہ</b> ہوتے ہیں، لیکن اگلے شعر کا قافیہ بدل جاتا ہے۔ موضوع کوئی بھی ہو سکتا ہے: عشق، اخلاق، قصہ۔ مشہور مثنویاں: "سحرالبیان" (میر حسن)، "گلزارِ نسیم" (دیا شنکر نسیم)۔</p>
+
+<div class="tw"><table><tr><th>صنف</th><th>کس کے بارے میں؟</th></tr>
+<tr><td>حمد</td><td>اللہ کی تعریف</td></tr><tr><td>نعت</td><td>نبی ﷺ کی تعریف</td></tr><tr><td>قومی/ملی</td><td>وطن اور قوم</td></tr><tr><td>قصیدہ</td><td>کسی بڑے کی تعریف</td></tr><tr><td>ہجو</td><td>کسی کی برائی/مذاق</td></tr><tr><td>دعا</td><td>اللہ سے مانگنا</td></tr><tr><td>مناجات</td><td>عاجزی سے رازونیاز</td></tr><tr><td>منقبت</td><td>اہلِ بیت/اولیاء کی تعریف</td></tr><tr><td>مرثیہ</td><td>شہادت/موت کا غم</td></tr><tr><td>مثنوی</td><td>لمبی کہانی، دو دو مصرعے ہم قافیہ</td></tr></table></div>
+</section>
+
+<section id="b">
+<h2>۲۔ نظم بلحاظِ ہیئت <span class="en">By Form</span></h2>
+<p>یہاں سوال یہ ہے: <b>شاعری کی شکل کیا ہے؟</b> یعنی مصرعے کتنے ہیں اور قافیہ کیسے لگا ہے۔</p>
+
+<h3>غزل <span class="en">Ghazal</span></h3>
+<p>کئی اشعار (couplets) کا مجموعہ جس کا ہر شعر <b>الگ مضمون</b> رکھتا ہے۔ پہلے شعر کے دونوں مصرعوں میں قافیہ ہوتا ہے، آگے ہر شعر کا دوسرا مصرع اسی قافیے پر ختم ہوتا ہے۔ عموماً موضوع عشق، جدائی اور زندگی ہوتے ہیں۔</p>
+
+<h3>مخمس <span class="en">Mukhammas</span></h3>
+<p>"خمس" کا مطلب ہے پانچ۔ ہر <b>بند</b> <span class="en">Stanza</span> میں <b>۵ مصرعے</b>۔ عام طور پر پہلے چار مصرعے ہم قافیہ اور پانچواں الگ ہوتا ہے (اگلے بند میں پھر یہی ترتیب)۔</p>
+
+<h3>مسدس <span class="en">Musaddas</span></h3>
+<p>"ست" یا "سدس" کا مطلب ہے چھ۔ ہر بند میں <b>۶ مصرعے</b>۔ پہلے چار ہم قافیہ اور آخری دو مصرعے الگ قافیے کے۔ مشہور مثال: حالی کا "مدّ و جزرِ اسلام" (مسدسِ حالی)۔</p>
+<div class="tip">یاد رکھنے کی ترکیب: <b>مخمس = ۵</b> (پانچ انگلیاں)، <b>مسدس = ۶</b>۔ بند کے مصرعے گنو، نام مل جائے گا۔</div>
+</section>
+
+<section id="c">
+<h2>۳۔ نظم/غزل کے اجزا <span class="en">Parts of a Poem</span></h2>
+<p>ہم پوری غزل مثال میں لیتے ہیں (غالب):</p>
+<div class="sh">ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے<br>بہت نکلے مرے ارمان لیکن پھر بھی کم نکلے</div>
+
+<h3>مصرع <span class="en">Misra / One Line</span></h3>
+<p>شعر کی ایک سطر۔ اوپر والی دو سطروں میں سے ہر ایک "مصرع" ہے۔</p>
+<h3>مصرعِ اولیٰ <span class="en">First Line</span> اور مصرعِ ثانی <span class="en">Second Line</span></h3>
+<p>اوپر کی سطر مصرعِ اولیٰ، نیچے کی سطر مصرعِ ثانی۔</p>
+<h3>شعر <span class="en">Sher / Couplet</span></h3>
+<p>دو مصرعوں سے مل کر بنا ہوا مکمل خیال۔ (ایک شعر = دو مصرعے)</p>
+<h3>قافیہ <span class="en">Qafia / Rhyme</span></h3>
+<p>وہ ہم آواز لفظ جو ردیف سے <b>پہلے</b> آئیں۔ اوپر شعر میں: <b>دَم</b> اور <b>کَم</b>۔ دونوں کی آواز ایک ہے۔</p>
+<h3>ردیف <span class="en">Radif / Repeated Ending</span></h3>
+<p>قافیے کے <b>بعد</b> بار بار آنے والے لفظ۔ اوپر: <b>"نکلے"</b>۔ ہر شعر کے آخر میں وہی لفظ آتا ہے۔</p>
+<div class="tip">آسان ترکیب: لفظ جو <b>بدلتا</b> ہے = قافیہ (دم، کم)۔ لفظ جو <b>وہی رہتا</b> ہے = ردیف (نکلے)۔ نوٹ: ردیف کے بغیر بھی غزل ہو سکتی ہے (غیر مردّف)، قافیہ ضروری ہے۔</div>
+<h3>بند <span class="en">Band / Stanza</span></h3>
+<p>نظم کے مصرعوں کا ایک گروپ۔ مخمس میں ۵ مصرعوں کا، مسدس میں ۶ مصرعوں کا۔</p>
+<h3>مطلع <span class="en">Matla</span></h3>
+<p>غزل کا <b>پہلا شعر</b>، جس کے <b>دونوں مصرعوں میں</b> قافیہ (اور ردیف) ہوتا ہے۔ اوپر والا شعر مطلع ہے: "دم" اور "کم" دونوں مصرعوں میں آئے۔ "مطلع" کا مطلب ہے طلوع ہونے کی جگہ (جیسے سورج نکلتا ہے)۔</p>
+<h3>مقطع <span class="en">Maqta</span></h3>
+<p>غزل کا <b>آخری شعر</b> جس میں شاعر اپنا <b>تخلص</b> <span class="en">Pen name</span> استعمال کرتا ہے۔ مثلاً غالب کا تخلص "غالب"، اقبال کا "اقبال"۔</p>
+<div class="ex">مثال: "ہوئی مدّت کہ غالبؔ مر گیا پر یاد آتا ہے" (اس میں "غالب" تخلص ہے، تو یہ مقطع ہوا)</div>
+<h3>مطلعِ ثانی <span class="en">Second Matla / Husn-e-Matla</span></h3>
+<p>غزل کے <b>درمیان</b> میں آنے والا دوسرا شعر جس کے دونوں مصرعوں میں پھر قافیہ ہو۔ اسے "حسنِ مطلع" بھی کہتے ہیں۔ ایک غزل میں اس کے آنے سے مزہ بڑھ جاتا ہے۔</p>
+<div class="tw"><table><tr><th>اصطلاح</th><th>مختصر مطلب</th></tr><tr><td>مصرع</td><td>ایک سطر</td></tr><tr><td>شعر</td><td>دو سطریں</td></tr><tr><td>قافیہ</td><td>ہم آواز لفظ</td></tr><tr><td>ردیف</td><td>بار بار آنے والا لفظ</td></tr><tr><td>مطلع</td><td>پہلا شعر (دونوں مصرعوں میں قافیہ)</td></tr><tr><td>مقطع</td><td>آخری شعر (تخلص)</td></tr><tr><td>مطلعِ ثانی</td><td>بیچ میں دوسرا مطلع</td></tr></table></div>
+</section>
+
+<section id="d">
+<h2>۴۔ علمِ بدیع <span class="en">Ilm-e-Badi / Art of Poetic Beauty</span></h2>
+<p>"بدیع" کا مطلب ہے نیا اور خوبصورت۔ یہ علم بتاتا ہے کہ شاعر <b>الفاظ اور معنی کے ذریعے</b> شعر میں حسن کیسے پیدا کرتا ہے۔ ان ترکیبوں کو <b>صنعت</b> <span class="en">Literary Device</span> کہتے ہیں۔ (صنعت کی جمع: صنائع)۔</p>
+
+<h3>۱۔ تلمیح <span class="en">Talmeeh / Allusion</span></h3>
+<p>شعر میں کسی <b>مشہور واقعے، قصے یا کردار</b> کی طرف اشارہ کرنا، بغیر پوری کہانی سنائے۔</p>
+<div class="sh">بے خطر کود پڑا آتشِ نمرود میں عشق<br>عقل ہے محوِ تماشائے لبِ بام ابھی</div>
+<p>یہاں حضرت ابراہیمؑ کا واقعہ یاد دلایا گیا ہے کہ نمرود نے انہیں آگ میں ڈالا (آتشِ نمرود)۔ شاعر نے پوری کہانی نہیں لکھی، صرف اشارہ کیا۔ <b>پہچان:</b> کوئی مشہور نام جیسے یوسفؑ، موسیٰؑ، فرہاد، لیلیٰ مجنوں، کربلا وغیرہ۔</p>
+
+<h3>۲۔ رعایتِ لفظی <span class="en">Riayat-e-Lafzi / Wordplay</span></h3>
+<p>شعر میں ایسے الفاظ ساتھ لانا جن کے درمیان <b>آپس میں لفظی تعلق یا مناسبت</b> ہو، یا ایک ہی لفظ کے دو معنی سے کھیلنا۔ اس میں خوبصورتی لفظوں کے جوڑ سے آتی ہے۔</p>
+<div class="ex">سمجھنے کے لیے میری مثال: "آنکھ کا تارا، آسمان کا تارا، دونوں چمکے"۔ یہاں "تارا" کا لفظ دو مفہوم میں آیا (پیارا شخص / ستارہ)۔</div>
+<div class="tip">ذہن میں رکھیں: امتحان میں اگر پوچھا جائے تو تعریف یہ لکھیں: "شاعر لفظوں کی مناسبت اور معنوی کھیل سے شعر میں خوبصورتی پیدا کرتا ہے۔"</div>
+
+<h3>۳۔ صنعتِ مراعات النظیر <span class="en">Muraat-un-Nazeer / Harmony of Related Things</span></h3>
+<p>شعر میں ایک ہی قسم کی <b>آپس میں جڑی ہوئی چیزوں</b> کا ذکر، جن کا ایک دوسرے سے تعلق ہو (مگر ضد یا اُلٹ نہ ہوں)۔</p>
+<div class="ex">میری مثال: "چمن میں پھول، بلبل، شبنم اور کلی سب ہی ہنس پڑے"۔ سب چیزیں باغ سے جڑی ہیں۔<br>دوسری مثال: قلم، کاغذ، دوات، سیاہی (لکھنے کی چیزیں)۔</div>
+<p><b>فرق:</b> جب لفظ آپس میں <b>الٹ</b> ہوں (دن/رات، اچھا/برا) تو وہ <b>صنعتِ تضاد</b> ہے، مراعات النظیر نہیں۔</p>
+
+<h3>۴۔ حسنِ تعلیل <span class="en">Husn-e-Taleel / Beautiful Imaginary Reason</span></h3>
+<p>کسی بات کی <b>اصل وجہ چھوڑ کر</b> ایک خوبصورت، خیالی اور دلچسپ وجہ بتانا، جو سچ نہ بھی ہو مگر سننے میں اچھی لگے۔ <b>(تعلیل)</b> <span class="en">Giving a reason</span> ، حسن یعنی خوبصورت۔</p>
+<div class="ex">میری مثال: "شبنم صبح کو پھولوں پر نہیں پڑتی، رات بھر چاند کی جدائی میں تارے روتے رہے ہیں"۔<br>اصل وجہ: ٹھنڈک سے پانی کے قطرے بنتے ہیں۔ شاعر کی وجہ: تارے رو رہے ہیں۔ یہی حسنِ تعلیل ہے۔</div>
+
+<h3>۵۔ صنعتِ مبالغہ <span class="en">Mubalagha / Exaggeration</span></h3>
+<p>کسی چیز کی خوبی یا برائی کو <b>حد سے بہت زیادہ</b> بڑھا چڑھا کر بیان کرنا (ناممکن حد تک)۔ <b>(مبالغہ)</b> <span class="en">Hyperbole</span> ۔</p>
+<div class="ex">میری مثال: "تیرے غم میں اتنے آنسو بہائے ہم نے، کہ شہر میں دریا چل پڑا"۔<br>روزمرہ مثال: "اتنی گرمی ہے کہ تو بھی پگھل جائے!"۔</div>
+
+<h3>۶۔ صنعتِ تکرار <span class="en">Tikrar / Repetition</span></h3>
+<p>کسی لفظ کو <b>بار بار دہرا کر</b> شعر میں زور اور موسیقی پیدا کرنا۔</p>
+<div class="sh">پتا پتا بوٹا بوٹا حال ہمارا جانے ہے</div>
+<p>(میر تقی میر) یہاں "پتا" اور "بوٹا" دو بار آئے، جس سے روانی اور اثر بڑھ گیا۔ <b>پہچان:</b> ایک ہی لفظ ایک شعر میں دوبارہ۔</p>
+
+<div class="tw"><table><tr><th>صنعت</th><th>ایک لفظ میں پہچان</th></tr><tr><td>تلمیح</td><td>مشہور واقعے کا اشارہ</td></tr><tr><td>رعایتِ لفظی</td><td>لفظوں کا جوڑ / کھیل</td></tr><tr><td>مراعات النظیر</td><td>ملتی جلتی چیزوں کا ذکر</td></tr><tr><td>حسنِ تعلیل</td><td>خوبصورت خیالی وجہ</td></tr><tr><td>مبالغہ</td><td>حد سے زیادہ بڑھانا</td></tr><tr><td>تکرار</td><td>لفظ کا دہرانا</td></tr></table></div>
+</section>
+
+<section id="t">
+<h2>امتحان <span class="en">Test</span></h2>
+<p>پہلے خود جواب سوچیں، پھر "جواب دیکھیں" دبائیں۔</p>
+<div id="quiz"></div>
+</section>
+<footer>محنت کرتے رہیں، اردو آسان ہو جائے گی۔</footer>
+</div>
+<script>
+var Q=[
+["حمد اور نعت میں کیا فرق ہے؟","حمد اللہ تعالیٰ کی تعریف ہے، نعت نبی کریم ﷺ کی تعریف ہے۔"],
+["مرثیہ کس موضوع پر لکھا جاتا ہے؟ دو مرثیہ گو شعرا کے نام بتائیں۔","کسی کی وفات یا شہادت (خصوصاً کربلا) کے غم پر۔ میر انیس اور مرزا دبیر۔"],
+["قصیدہ اور ہجو میں کیا فرق ہے؟","قصیدے میں کسی کی بہت زیادہ تعریف ہوتی ہے، ہجو میں برائی اور مذاق۔"],
+["مثنوی کی پہچان کیا ہے؟","ہر شعر کے دونوں مصرعے ہم قافیہ ہوتے ہیں اور ہر شعر کا قافیہ بدلتا ہے۔ اس میں لمبا قصہ بیان ہوتا ہے۔"],
+["مخمس اور مسدس کے ہر بند میں کتنے مصرعے ہوتے ہیں؟","مخمس: ۵ مصرعے۔ مسدس: ۶ مصرعے۔"],
+["اس شعر میں قافیہ اور ردیف بتائیں:<br>«ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے / بہت نکلے مرے ارمان لیکن پھر بھی کم نکلے»","قافیہ: دم، کم۔ ردیف: نکلے۔"],
+["مطلع اور مقطع میں کیا فرق ہے؟","مطلع غزل کا پہلا شعر ہے جس کے دونوں مصرعوں میں قافیہ ہوتا ہے۔ مقطع آخری شعر ہے جس میں شاعر کا تخلص آتا ہے۔"],
+["مطلعِ ثانی کیا ہے؟","غزل کے درمیان میں آنے والا دوسرا مطلع (جس کے دونوں مصرعوں میں قافیہ ہو)۔ اسے حسنِ مطلع بھی کہتے ہیں۔"],
+["«بے خطر کود پڑا آتشِ نمرود میں عشق» اس شعر میں کون سی صنعت ہے اور کیوں؟","صنعتِ تلمیح، کیونکہ اس میں حضرت ابراہیمؑ کے آگ میں ڈالے جانے کے مشہور واقعے کی طرف اشارہ ہے۔"],
+["«پتا پتا بوٹا بوٹا حال ہمارا جانے ہے» میں کون سی صنعت ہے؟","صنعتِ تکرار، کیونکہ لفظ «پتا» اور «بوٹا» دہرائے گئے ہیں۔"],
+["«اتنے آنسو بہائے کہ شہر میں دریا چل پڑا» اس مصرعے میں کون سی صنعت ہے؟","صنعتِ مبالغہ، کیونکہ بات کو ناممکن حد تک بڑھایا گیا ہے۔"],
+["«باغ میں پھول، بلبل، شبنم اور کلی» میں کون سی صنعت ہے؟ تضاد کیوں نہیں؟","صنعتِ مراعات النظیر، کیونکہ سب چیزیں باغ سے جڑی ہوئی ہیں۔ تضاد میں الٹ چیزیں ہوتی ہیں (دن/رات)، یہاں الٹ نہیں ہیں۔"],
+["حسنِ تعلیل کی تعریف لکھیں اور ایک مثال دیں۔","کسی بات کی اصل وجہ چھوڑ کر خوبصورت خیالی وجہ بیان کرنا۔ مثال: شبنم اس لیے گرتی ہے کہ تارے رات بھر روتے ہیں۔"]
+];
+var h="";Q.forEach(function(q,i){h+='<div class="q"><b>سوال '+(i+1)+':</b> '+q[0]+'<br><button onclick="this.nextElementSibling.classList.toggle(\'on\')">جواب دیکھیں (Check Answer)</button><div class="ans">جواب: '+q[1]+'</div></div>'});
+document.getElementById('quiz').innerHTML=h;
+</script>
+</body>
+</html>
